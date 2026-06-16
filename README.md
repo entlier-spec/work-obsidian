@@ -1,1 +1,1 @@
-This is an Obsidian-based knowledge repo.
+This is an Obsidian-based knowledge repo. All markdown files are edited in obsidian with git to backup a to remote repo.

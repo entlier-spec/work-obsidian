@@ -1,11 +1,13 @@
 [Chemical System] Dispense heads
+
 Entegris Sentry QC 2 
 1.  3/4 ” dispense/fill port
 2. 1/2 "  vent/n2 port
 3. 1/4 "  drum connect/verification port
+
 Entegris Sentry QC 3
-4. QC 2 connections
-5. 3/4 " recirculation port
+1. QC 2 connections
+2. 3/4 " recirculation port
 
 Keycodes
 1. NMDW-1  -  64

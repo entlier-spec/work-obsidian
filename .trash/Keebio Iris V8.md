@@ -1,0 +1,3 @@
+The numbers are a nice return to normal it feels like. I DONT like the switches, maybe my mind will change with a more textured home row / k and j keys. The spacing is awkward and the constant head turned is not doing any favors for my neck. The tenting could be more severe. The delete key is periodically removing all text as to why that is its function and not a delete last word. I have no idea.
+
+The rest of this is thumb typed. The bottom row needs to be reanalyzed for what's most natural the moist outward thumb key or the second one. I have inverted the index key caps, but the lack of sound is still jarring more info Monday.

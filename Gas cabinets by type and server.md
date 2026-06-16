@@ -1,0 +1,7 @@
+[[Gas]]
+BOC - DM51FS3
+- BCl3-3, BCl3-4, Cl2-6, Cl2-4, HBr-3, CO-2, CO-3, CO-5, SiH4-7, SiH4-8, SiH4-9, NF3-12, NF3-9, NF3-8, NF3-6, NF3-5, NF3-4, CH2F2-2, NH3-5, DCS-3, CO-4, F2/Kr/Ne-3, NF3-10, NF3-11, Cl2-7, WF6-6
+
+Matheson - DM51FS4
+- NH3-6, SO2-1, WF6-11, SiH4-6, SiH4-3, Cl2-2, HCl-1, BCl3-2, NF3-3, NF3-2, F2/Kr/Ne-1, NF3-1, BCl3-1, HBr-1, Cl2-1, NH3-1, NH3-2, CH2F2-1, NH3-4, DCS-2, DCS-1
+
