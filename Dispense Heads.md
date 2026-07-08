@@ -1,4 +1,4 @@
-[Chemical System] Dispense heads
+[[Chemical System]] Dispense heads
 
 Entegris Sentry QC 2 
 1.  3/4 ” dispense/fill port
