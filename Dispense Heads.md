@@ -1,7 +1,12 @@
+---
+id: Dispense Heads
+aliases: []
+tags: []
+---
 [[Chemical System]] Dispense heads
 
 Entegris Sentry QC 2 
-1.  3/4 ” dispense/fill port
+1. 3/4 ” dispense/fill port
 2. 1/2 "  vent/n2 port
 3. 1/4 "  drum connect/verification port
 
@@ -25,3 +30,5 @@ Keycodes
 13. HMDS-2 - KY
 14. NMDW-2 - 64
 15. NH4OH-2 - 03 (Green)
+
+All dispense heads have a check valve to prevent backflow
